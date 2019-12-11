@@ -1,5 +1,9 @@
 # ES6-Node-REACT-BOILERPLATE
 
+First of all run this command:
+```
+  npm i
+```
 This is a node react boilerplate that uses ES6 on the backend. So you basically use ES6 features with Node.Js.
 
 Commands to run :
