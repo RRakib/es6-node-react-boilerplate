@@ -1,6 +1,6 @@
 # ES6-Node-REACT-BOILERPLATE
 
-First of all run this command:
+First of all delete the frontend folder and run this command:
 ```
 npm install -g create-react-app
 create-react-app frontend
