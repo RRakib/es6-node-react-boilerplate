@@ -20,3 +20,6 @@ npm run client
 ```
 
 Customize the package.json to meet your requirements.
+
+### Frontend runs at port 3000
+### Backend runs at port 8080
