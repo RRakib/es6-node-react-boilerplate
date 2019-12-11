@@ -2,7 +2,9 @@
 
 First of all run this command:
 ```
-  npm i
+npm install -g create-react-app
+create-react-app frontend
+npm i
 ```
 This is a node react boilerplate that uses ES6 on the backend. So you basically use ES6 features with Node.Js.
 
